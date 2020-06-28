@@ -42,4 +42,8 @@ Since there is no known output, unsupervised learning will be used. The clusteri
 
 •	HVPlot Table with current tradable cryptocurrencies including the following columns: CoinName, Algorithm, ProofType, TotalCoinSupply, TotalCoinsMined, and Class.
 
+![4](https://github.com/Samira786/Unsupervised-Machine-Learning-and-Cryptocurrencies/blob/master/images/HVPlot-18.png)
+
 •	Scatterplot of clustered date – x=TotalCoinsMined and y=TotalCoinSupply
+
+![5](https://github.com/Samira786/Unsupervised-Machine-Learning-and-Cryptocurrencies/blob/master/images/scatterplot2D-18.png)
